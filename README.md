@@ -24,6 +24,8 @@
   <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div><br>
 
+https://drive.google.com/file/d/1pJoa0VQ8iCMK00jVAnyJiGhd9T3p06pO/view
+
 ## 🔥 Iniciando o projeto
 
 Primeiro, instale as dependências necessarias com o comando: 
