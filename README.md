@@ -3,7 +3,7 @@
 <div style="display: flex">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-  <div style="background-color: '#fff'"> 
+  <div style="background-color: #fff"> 
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
   </div>
 </div>
