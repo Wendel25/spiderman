@@ -1,7 +1,7 @@
 ## ⚠️ Sobre o Projeto
 
   A proposta inicial consiste em aprimorar meus conhecimentos em React JS e nesse projeto, usei o poderosissímo framework Next JS. <br><br>
-  Com o tema de <em>heróis</em>, desenvolvi uma aplicação web onde mostra alguns personagens do universo do Homem-Aranha.<br><br>
+  Com o tema de <em>heróis</em>, desenvolvi uma aplicação onde mostra alguns personagens do universo Homem-Aranha e algumas de suas caracteristicas<br><br>
 
 
 ## 🤖​ Tecnologia usada
