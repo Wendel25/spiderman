@@ -5,6 +5,8 @@
 
   👉🏻 <a href="https://www.youtube.com/watch?v=FRdES4ZmxXI" target="_blank">Créditos da aula</a> 👈🏻<br><br>
 
+  Para ver o projeto rodando, 🔥 <a href="https://drive.google.com/file/d/1pJoa0VQ8iCMK00jVAnyJiGhd9T3p06pO/view" target="_blank">clique aqui</a> 🔥<br><br>
+
 ## Tela de Início
   ![image](https://github.com/Wendel25/spiderman/assets/69828304/e599703d-caa5-4995-b04c-b162e887862d)
   <br><br>
@@ -14,9 +16,6 @@
   <br><br>
   ![image](https://github.com/Wendel25/spiderman/assets/69828304/b4764b24-1623-49b7-8091-5d8c5f996bc2)
   <br><br>
-
-## Projeto rodando
-  🔥 <a href="https://drive.google.com/file/d/1pJoa0VQ8iCMK00jVAnyJiGhd9T3p06pO/view" target="_blank">Acesse aqui!</a> 🔥<br><br>
 
 ## 🤖​ Stack de Tecnologia Utilizada
 
