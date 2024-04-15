@@ -1,7 +1,7 @@
 ## ⚠️ Sobre o Projeto
 
   A proposta inicial consiste em aprimorar meus conhecimentos em React JS e nesse projeto, usei o poderosissímo framework Next JS junto com a biblioteca framer-motion. <br><br>
-  Com o tema de <em>heróis</em>, desenvolvi uma aplicação onde mostra alguns personagens do universo Homem-Aranha e algumas de suas caracteristicas.<br>
+  Com o tema de <em>heróis</em>, junto com a plataforma de ensino <b>DIO</b> desenvolvi uma aplicação onde mostra alguns personagens do universo Homem-Aranha e algumas de suas caracteristicas.<br>
 
   👉🏻 <a href="https://www.youtube.com/watch?v=FRdES4ZmxXI" target="_blank">Créditos da aula</a> 👈🏻<br><br>
 
