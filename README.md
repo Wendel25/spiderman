@@ -3,10 +3,10 @@
   A proposta inicial consiste em aprimorar meus conhecimentos em React JS e nesse projeto, usei o poderosissímo framework Next JS junto com a biblioteca framer-motion. <br><br>
   Com o tema de <em>heróis</em>, junto com a plataforma de ensino <b>DIO</b> desenvolvi uma aplicação onde mostra alguns personagens do universo Homem-Aranha e algumas de suas caracteristicas.<br>
 
+  Para ver o projeto rodando, <a href="https://drive.google.com/file/d/1pJoa0VQ8iCMK00jVAnyJiGhd9T3p06pO/view" target="_blank">clique aqui</a> <br><br>
+
   👉🏻 <a href="https://www.youtube.com/watch?v=FRdES4ZmxXI" target="_blank">Créditos da aula</a> 👈🏻<br><br>
-
-  Para ver o projeto rodando, 🔥 <a href="https://drive.google.com/file/d/1pJoa0VQ8iCMK00jVAnyJiGhd9T3p06pO/view" target="_blank">clique aqui</a> 🔥<br><br>
-
+  
 ## Tela de Início
   ![image](https://github.com/Wendel25/spiderman/assets/69828304/e599703d-caa5-4995-b04c-b162e887862d)
   <br><br>
