@@ -18,10 +18,10 @@
 ## 🤖​ Stack de Tecnologia Utilizada
 
 <div style="display: flex;">
-  <img height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
-  <img height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div><br>
 
 ## 🔥 Iniciando o projeto
