@@ -1,6 +1,6 @@
 ## 💻​ Tecnologia usada
 
-<div style="display: flex; gap: 5">
+<div style="display: flex">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
   <div style="background-color: '#fff'"> 
