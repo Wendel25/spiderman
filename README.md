@@ -7,6 +7,7 @@
 
 ## Tela de Início
   ![image](https://github.com/Wendel25/spiderman/assets/69828304/e599703d-caa5-4995-b04c-b162e887862d)
+  <br>
 
 
 ## Personagens
