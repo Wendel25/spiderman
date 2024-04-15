@@ -1,7 +1,11 @@
-## 💻​ Tecnologia usada
+## 🤖​ Tecnologia usada
 
 <div style="display: flex; background-color: #fff;">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <div>
+    <h1> React </h1>
+    <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  </div>
+  
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
 </div>
 
