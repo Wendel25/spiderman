@@ -15,11 +15,12 @@
   ![image](https://github.com/Wendel25/spiderman/assets/69828304/b4764b24-1623-49b7-8091-5d8c5f996bc2)
   <br><br>
 
-## 🤖​ Tecnologia usada
+## 🤖​ Stack de Tecnologia Utilizada
 
 <div style="display: flex;">
   <img height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+  <img height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div><br>
 
 ## 🔥 Iniciando o projeto
