@@ -5,7 +5,7 @@
 
   <div> 
     <h1>Tela de Início</h1>
-    ![image](https://github.com/Wendel25/spiderman/assets/69828304/7644ca74-b8fa-4db1-8c22-42d42d1d9f7e)
+    ![image](https://github.com/Wendel25/spiderman/assets/69828304/4df17bf4-8ea5-4fe2-bb4f-275e96a45945)
   </div>
 
 
