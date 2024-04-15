@@ -7,10 +7,12 @@
 
 ## Tela de Início
   ![image](https://github.com/Wendel25/spiderman/assets/69828304/e599703d-caa5-4995-b04c-b162e887862d)
-  <br>
-
+  <br><br>
 
 ## Personagens
+  ![image](https://github.com/Wendel25/spiderman/assets/69828304/aebd080e-1011-46ba-99dd-785b3fce952c)
+  ![image](https://github.com/Wendel25/spiderman/assets/69828304/b4764b24-1623-49b7-8091-5d8c5f996bc2)
+  <br><br>
 
 ## 🤖​ Tecnologia usada
 
