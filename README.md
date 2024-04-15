@@ -1,3 +1,8 @@
+O projeto foi elaborado com a ideia de estudos, onde usei a tecnologia React
+
+ <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+
 ## 👉​ Iniciando o projeto
 
 Primeiro, instale as dependências necessarias com o comando: 
