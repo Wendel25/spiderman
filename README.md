@@ -6,8 +6,9 @@
   👉🏻 <a href="https://www.youtube.com/watch?v=FRdES4ZmxXI" target="_blank">Créditos da aula</a> 👈🏻<br><br>
 
   <h1>Tela de Início</h1>
-  ![image](https://github.com/Wendel25/spiderman/assets/69828304/4df17bf4-8ea5-4fe2-bb4f-275e96a45945)
-
+    <img height="30" width="40" src="![image](https://github.com/Wendel25/spiderman/assets/69828304/0dd1c97b-470c-4c80-80e4-3bdb2fa87f97)">
+    
+  <h1>Personagnes</h1>
 
 
 ## 🤖​ Tecnologia usada
