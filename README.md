@@ -1,6 +1,6 @@
 ## 💻​ Tecnologia usada
 
-<div style="display: flex">
+<div style="display: flex; background-color: #fff">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
 </div>
