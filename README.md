@@ -1,7 +1,7 @@
 ## 🤖​ Tecnologia usada
 
 <div style="display: flex;">
-  <div style="display: flex">
+  <div style="display: flex; aling-itens: 'center';">
     <span> React </span>
     <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   </div>
