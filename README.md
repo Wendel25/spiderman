@@ -16,7 +16,7 @@
   <br><br>
 
 ## Projeto rodando
-<iframe width="560" height="315" src="https://drive.google.com/file/d/1pJoa0VQ8iCMK00jVAnyJiGhd9T3p06pO/view" frameborder="0" allowfullscreen></iframe>
+  🔥 <a href="https://drive.google.com/file/d/1pJoa0VQ8iCMK00jVAnyJiGhd9T3p06pO/view" target="_blank">Acesse aqui!</a> 🔥<br><br>
 
 ## 🤖​ Stack de Tecnologia Utilizada
 
@@ -26,10 +26,6 @@
   <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
 </div><br>
-
-
-
-
 
 ## 🔥 Iniciando o projeto
 
