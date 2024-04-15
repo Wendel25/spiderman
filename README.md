@@ -11,6 +11,7 @@
 
 ## Personagens
   ![image](https://github.com/Wendel25/spiderman/assets/69828304/aebd080e-1011-46ba-99dd-785b3fce952c)
+  <br>
   ![image](https://github.com/Wendel25/spiderman/assets/69828304/b4764b24-1623-49b7-8091-5d8c5f996bc2)
   <br><br>
 
