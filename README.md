@@ -1,6 +1,6 @@
 ## 💻​ Tecnologia usada
 
-<div tyle="display: flex">
+<div tyle="display: flex; gap: 5">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
 </div>
