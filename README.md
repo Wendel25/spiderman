@@ -1,6 +1,7 @@
 ## ⚠️ Projeto
 
-  A proposta inicial consiste em aprimorar meus conhecimentos em React JS e nesse projeto, usei o poderosissímo framework Next JS
+  A proposta inicial consiste em aprimorar meus conhecimentos em React JS e nesse projeto, usei o poderosissímo framework Next JS. <br>
+  Com o tema de <em>heróis</em>, 
 
 
 ## 🤖​ Tecnologia usada
