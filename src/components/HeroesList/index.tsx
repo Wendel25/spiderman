@@ -15,7 +15,7 @@ interface IProps {
   heroes: IHeroData[];
 }
 
-export default function HeroesList() {
+export default function HeroesList({ heroes }: IProps) {
   return (
     <Fragment>
       <motion.h1
@@ -24,7 +24,7 @@ export default function HeroesList() {
         animate={{ opacity: 1 }}
         transition={{ duration: 2, delay: 1.5 }}
       >
-        Spider-man
+        Spider-Man
       </motion.h1>
       <motion.section
         className={styles.heroes}
