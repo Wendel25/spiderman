@@ -1,16 +1,22 @@
 ## 👉​ Iniciando o projeto
 
-Com o comando 
+Primeiro, instale as dependências necessarias com o comando: 
 
-Primeiro, execute o servidor de desenvolvimento:
+```bash
+npm install
+# ou
+nom i
+```
+  
+Em seguida, execute o servidor de desenvolvimento:
 
 ```bash
 npm run dev
-# or
+# ou
 yarn dev
-# or
+# ou
 pnpm dev
-# or
+# ou
 bun dev
 ```
 
