@@ -3,7 +3,7 @@
   A proposta inicial consiste em aprimorar meus conhecimentos em React JS e nesse projeto, usei o poderosissímo framework Next JS junto com a biblioteca framer-motion. <br><br>
   Com o tema de <em>heróis</em>, desenvolvi uma aplicação onde mostra alguns personagens do universo Homem-Aranha e algumas de suas caracteristicas.<br>
 
-  👉🏻 <a href="https://www.youtube.com/watch?v=FRdES4ZmxXI" target="_blank">Créditos da aula</a><br><br> 👈🏻
+  👉🏻 <a href="https://www.youtube.com/watch?v=FRdES4ZmxXI" target="_blank">Créditos da aula</a> 👈🏻<br><br>
 
   <h1>Tela de Início</h1>
   ![image](https://github.com/Wendel25/spiderman/assets/69828304/4df17bf4-8ea5-4fe2-bb4f-275e96a45945)
