@@ -18,7 +18,7 @@
     position: absolute;
     top: 40%;
 
-    @media screen and (min-width: $max-width) {
+    @media screen and (min-width: $max-width){
         max-width: calc($max-width - 400px);
         top: 50%;
     }
@@ -35,31 +35,25 @@
         width: 100%;
     }
 
-    &.spider-man-616 {
+    &.spider-man-616{
         height: $spider-man-616-height;
     }
-
-    &.mulher-aranha-65 {
+    &.mulher-aranha-65{
         height: $mulher-aranha-65-height;
     }
-
-    &.spider-man-1610 {
+    &.spider-man-1610{
         height: $spider-man-1610-height;
     }
-
-    &.sp-dr-14512 {
+    &.sp-dr-14512{
         height: $sp-dr-14512-height;
     }
-
-    &.spider-ham-8311 {
+    &.spider-ham-8311{
         height: $spider-ham-8311-height;
     }
-
-    &.spider-man-90214 {
+    &.spider-man-90214{
         height: $spider-man-90214-height;
     }
-
-    &.spider-man-928 {
+    &.spider-man-928{
         height: $spider-man-928-height;
     }
 }

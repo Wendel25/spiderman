@@ -1,3 +1,4 @@
+
 import Image, { StaticImageData } from "next/image";
 
 import ImageSpiderMan616 from "../../../public/spiders/spider-man-616.png";
@@ -11,25 +12,25 @@ import ImageSpiderMan928 from "../../../public/spiders/spider-man-928.png";
 import { IHeroData } from "@/interfaces/heroes";
 
 const heroesImage: Record<string, StaticImageData> = {
-  "spider-man-616": ImageSpiderMan616,
-  "mulher-aranha-65": ImageMulherAranha65,
-  "spider-man-1610": ImageSpiderMan1610,
-  "sp-dr-14512": ImageSpDr14512,
-  "spider-ham-8311": ImageSpiderHam8311,
-  "spider-man-90214": ImageSpiderMan90214,
-  "spider-man-928": ImageSpiderMan928,
-};
-
-interface IProps {
-  hero: IHeroData;
+    "spider-man-616": ImageSpiderMan616,
+    "mulher-aranha-65": ImageMulherAranha65,
+    "spider-man-1610": ImageSpiderMan1610,
+    "sp-dr-14512": ImageSpDr14512,
+    "spider-ham-8311": ImageSpiderHam8311,
+    "spider-man-90214": ImageSpiderMan90214,
+    "spider-man-928": ImageSpiderMan928,
 }
 
-export default function HeroPicture({ hero }: IProps) {
-  return (
-    <Image
-      src={heroesImage[hero.id]}
-      alt={`${hero.name} (Universo-${hero.universe})`}
-      priority
-    />
-  );
+interface IProps {
+    hero: IHeroData;
+}
+
+export default function HeroPicture({ hero }: IProps){
+    return (
+        <Image 
+            src={heroesImage[hero.id]}
+            alt={`${hero.name} (Universo-${hero.universe})`}
+            priority
+        />
+    );
 }
