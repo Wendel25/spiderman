@@ -5,7 +5,6 @@
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg">
 </div>
 
-
 ## 🔥 Iniciando o projeto
 
 Primeiro, instale as dependências necessarias com o comando: 
