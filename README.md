@@ -4,8 +4,6 @@ Primeiro, instale as dependências necessarias com o comando:
 
 ```bash
 npm install
-# ou
-nom i
 ```
   
 Em seguida, execute o servidor de desenvolvimento:
