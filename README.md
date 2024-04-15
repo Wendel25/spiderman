@@ -1,5 +1,7 @@
 ## 👉​ Iniciando o projeto
 
+Com o comando 
+
 Primeiro, execute o servidor de desenvolvimento:
 
 ```bash
